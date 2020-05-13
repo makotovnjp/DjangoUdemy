@@ -11,4 +11,5 @@ DjangoUdemy
     - sudo docker-compose run app 
     
 # 注意点
+11
 

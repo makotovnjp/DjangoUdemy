@@ -9,4 +9,6 @@ DjangoUdemy
     
 1. From second time 
     - sudo docker-compose run app 
+    
+# 注意点
 

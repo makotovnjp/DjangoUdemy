@@ -18,4 +18,8 @@ DjangoUdemy
 # テスト手順
 1. Test Command
     - python manage.py test && flake8
+    - coverage run --source='.' manage.py test
+    - coverage report
+    
+    
 

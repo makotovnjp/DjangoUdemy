@@ -10,6 +10,12 @@ DjangoUdemy
 1. From second time 
     - sudo docker-compose run app 
     
-# 注意点
-11
+# Dockerなしでの手順
+1. django-admin.py startproject app .
+
+2. python manage.py startapp core
+
+# テスト手順
+1. Test Command
+    - python manage.py test && flake8
 
